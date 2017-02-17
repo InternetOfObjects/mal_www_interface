@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>mal_net_control</name>
+  <name>mal_www_interface</name>
   <version>0.0.0</version>
   <description>The mal_net_control package</description>
 
